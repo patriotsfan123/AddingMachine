@@ -1,0 +1,17 @@
+input{
+  height: 60px;
+  width: 120px;
+}
+body{
+  background-color:#ccffcc;
+}
+output  {
+  font-size: 1000px;
+}
+
+input{
+
+}
+input:hover{
+  background-color: green;
+}
